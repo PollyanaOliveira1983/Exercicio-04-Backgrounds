@@ -1,0 +1,199 @@
+.grad1{ 
+    width: 1410px;
+    height: 200px;
+    border: 3px dashed blue;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    background: radial-gradient(at center, rgb(218, 16, 191), rgb(196, 196, 5), #ff0000);        
+           
+}
+.grad2{ 
+    width: 1410px;
+    height: 200px;
+    border: 3px double black;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);        
+         
+}
+.grad3{ 
+    width: 1410px;
+    height: 200px;
+    border: 3px groove transparent;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    background:linear-gradient(green, black,white); 
+          
+}
+
+.grad4{ 
+    width: 1410px;
+    height: 200px;
+    border: 3px ride beige;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    background:repeating-linear-gradient(red, yellow 10%, green 20%); 
+          
+}
+
+.grad5{ 
+    width: 1410px;
+    height: 200px;
+    border: 3px dotted orangered;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    background:conic-gradient(purple, white, black); 
+           
+}
+
+.grad6{ 
+    width: 1410px;
+    height: 200px;
+    border: 3px solid brown;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    background:conic-gradient( red 50deg, yellow 100deg, green 300deg); 
+        
+}
+
+.grad7{ 
+    width: 1410px;
+    height: 200px;
+    border: 1px dashed blue;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    background:repeating-radial-gradient(blue 5%, white 25%, black); 
+        
+}
+
+.grad8{ 
+    width: 1410px;
+    height: 200px;
+    border: 3px inset yellowgreen;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+    background:repeating-linear-gradient(black, yellow 10%, green 15%); 
+        
+}
+
+.div01{
+    
+    background-image: url(face.gif);
+    background-repeat:repeat-x;
+    background-size: 100px 100px;
+    background-attachment:scroll;
+    width: 1410px;
+    height: 200px;
+    border: 3px inset yellowgreen;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 4px;
+}
+
+.div02{
+    
+    background-image: url(minions.gif);
+    background-repeat: no-repeat;
+    background-size: 1500px 200px;
+    background-attachment:unset;
+    width: 1410px;
+    height: 200px;
+    border: 3px outset blueviolet;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.div03{
+    
+    background-image: url(giphy.gif);
+    background-repeat: no-repeat;
+    background-size: 1500px 200px;
+    background-attachment:initial;
+    width: 1410px;
+    height: 200px;
+    border: 5px dotted blue;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding:0px;
+}
+
+.div04{
+
+    background-image: url(gatinhos.jpg);
+    background-repeat:repeat-y x;
+    background-size: 100px 100px;
+    background-attachment:initial;
+    width: 1410px;
+    height: 200px;
+    border: 3px solid rebeccapurple;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.div05{
+
+    background-image: url(husk.jpg);
+    background-repeat:no-repeat;
+    background-size: 1500px 200px;
+    background-attachment:scroll;
+    width: 1410px;
+    height: 200px;
+    border: 4px double gray;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.div06{
+
+    background-image: url(gatobicolor.jpg);
+    background-repeat:repeat-y;
+    background-size: 100px 100px;
+    background-attachment:initial;
+    width: 1410px;
+    height: 200px;
+    border: 6px grove royalblue;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.div07{
+
+    background-image: url(lulu.jpg);
+    background-repeat:repeat-x;
+    background-size: 100px 100px;
+    background-attachment:initial;
+    width: 1410px;
+    height: 200px;
+    border: 6px grove royalblue;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.div08{
+
+    background-image: url(gatobranco.jpg);
+    background-repeat:repeat-x ;
+    background-size: 100px 100px;
+    background-attachment:inherit;
+    width: 1410px;
+    height: 200px;
+    border: 6px dashed blue;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+
